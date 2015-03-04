@@ -1,0 +1,5 @@
+/Users/Les/Desktop/MonoSterlingDb/Core/Sterling.IOS/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Les/Desktop/MonoSterlingDb/Core/Sterling.IOS/bin/Debug/Sterling.IOS.dll.mdb
+/Users/Les/Desktop/MonoSterlingDb/Core/Sterling.IOS/bin/Debug/Sterling.IOS.dll
+/Users/Les/Desktop/MonoSterlingDb/Core/Sterling.IOS/obj/Debug/Sterling.IOS.dll
+/Users/Les/Desktop/MonoSterlingDb/Core/Sterling.IOS/obj/Debug/Sterling.IOS.dll.mdb

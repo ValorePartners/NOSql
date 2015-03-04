@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{C0D5AD7F-F924-4CC6-B3C7-73F7B4FFFD8A}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Sterling.Common</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Database\BaseDatabaseInstance.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Database\BaseDriver.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Database\BaseSterlingByteInterceptor.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Database\BaseSterlingTrigger.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Database\CycleCache.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Database\CycleItem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Database\Extensions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Database\ITableDefinition.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Database\LogManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Database\SterlingDatabase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Database\TableDefinition.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Database\TableTypeResolver.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Events\SterlingOperation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Events\SterlingOperationArgs.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Exceptions\Exceptions.Designer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Exceptions\SterlingActivationException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Exceptions\SterlingDatabaseNotFoundException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Exceptions\SterlingDuplicateDatabaseException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Exceptions\SterlingDuplicateIndexException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Exceptions\SterlingDuplicateTypeException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Exceptions\SterlingException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Exceptions\SterlingIndexNotFoundException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Exceptions\SterlingIsolatedStorageException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Exceptions\SterlingLoggerNotFoundException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Exceptions\SterlingNoTableDefinitionsException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Exceptions\SterlingNotReadyException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Exceptions\SterlingNullException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Exceptions\SterlingSerializerException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Exceptions\SterlingTableNotFoundException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Exceptions\SterlingTriggerException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Indexes\IIndexCollection.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Indexes\IndexCollection.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Indexes\IndexCollection2.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Indexes\TableIndex.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Indexes\TableIndex2.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Keys\IKeyCollection.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Keys\KeyCollection.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Keys\TableKey.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Serialization\AggregateSerializer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Serialization\BaseSerializer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Serialization\DefaultSerializer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Serialization\ExtendedSerializer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Serialization\ISterlingSerializer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Serialization\PropertyOrField.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Serialization\SerializationCache.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Serialization\SerializationHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Serialization\SterlingIgnoreAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SL4Stub\IStructuralComparable.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SL4Stub\IStructuralEquatable.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ISterlingByteInterceptor.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ISterlingDatabase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ISterlingDatabaseInstance.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ISterlingDriver.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ISterlingLock.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ISterlingPropertyConverter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ISterlingTrigger.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ISterlingTypeResolver.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MemoryDriver.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SterlingDefaultLogger.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SterlingEngine.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SterlingFactory.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SterlingLogLevel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IsolatedStorage\IsoStorageHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IsolatedStorage\IsolatedStorageDriver.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IsolatedStorage\PathLock.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IsolatedStorage\PathProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Helpers.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SL4Stub\GenericSterlingTuple.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SL4Stub\SterlingLazy.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SL4Stub\ITuple.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)Database\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Events\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Exceptions\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Indexes\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Keys\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Serialization\" />
+    <Folder Include="$(MSBuildThisFileDirectory)SL4Stub\" />
+    <Folder Include="$(MSBuildThisFileDirectory)IsolatedStorage\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)Exceptions\Exceptions.resx" />
+    <None Include="$(MSBuildThisFileDirectory)Wintellect.Sterling.csproj" />
+    <None Include="$(MSBuildThisFileDirectory)Wintellect.Sterling.csproj.vspscc" />
+  </ItemGroup>
+</Project>

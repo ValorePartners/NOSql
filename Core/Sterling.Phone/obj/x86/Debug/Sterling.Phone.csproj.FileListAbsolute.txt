@@ -1,0 +1,4 @@
+Z:\lesliebrown\Documents\mobility-excellence\MonoSterlingDb\Sterling.Phone\Bin\x86\Debug\Sterling.Phone.dll
+Z:\lesliebrown\Documents\mobility-excellence\MonoSterlingDb\Sterling.Phone\Bin\x86\Debug\Sterling.Phone.pdb
+Z:\lesliebrown\Documents\mobility-excellence\MonoSterlingDb\Sterling.Phone\obj\x86\Debug\Sterling.Phone.dll
+Z:\lesliebrown\Documents\mobility-excellence\MonoSterlingDb\Sterling.Phone\obj\x86\Debug\Sterling.Phone.pdb

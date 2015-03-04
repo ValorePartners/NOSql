@@ -1,0 +1,14 @@
+/Users/Les/Desktop/MonoSterlingDb/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Les/Desktop/MonoSterlingDb/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/Les/Desktop/MonoSterlingDb/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/Les/Desktop/MonoSterlingDb/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/Les/Desktop/MonoSterlingDb/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/Les/Desktop/MonoSterlingDb/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/Les/Desktop/MonoSterlingDb/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/Les/Desktop/MonoSterlingDb/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Debug/
+/Users/Les/Desktop/MonoSterlingDb/Demo/Sterling.Demo.IOS/bin/iPhoneSimulator/Debug/Sterling.Demo.IOS.exe.mdb
+/Users/Les/Desktop/MonoSterlingDb/Demo/Sterling.Demo.IOS/bin/iPhoneSimulator/Debug/Sterling.Demo.IOS.exe
+/Users/Les/Desktop/MonoSterlingDb/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Debug/Sterling.Demo.IOS.exe
+/Users/Les/Desktop/MonoSterlingDb/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Debug/Sterling.Demo.IOS.exe.mdb
+/Users/Les/Desktop/MonoSterlingDb/Demo/Sterling.Demo.IOS/bin/iPhoneSimulator/Debug/Sterling.IOS.dll
+/Users/Les/Desktop/MonoSterlingDb/Demo/Sterling.Demo.IOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll

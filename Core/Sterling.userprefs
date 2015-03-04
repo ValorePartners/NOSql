@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Sterling.Android/Sterling.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sterling.Common/Helpers.cs">
+    <Files>
+      <File FileName="Sterling.Android/Resources/values/Strings.xml" Line="1" Column="1" />
+      <File FileName="SterlingLicense.txt" Line="1" Column="1" />
+      <File FileName="Sterling.Common/Helpers.cs" Line="25" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/lesliebrown/Documents/mobility-excellence/MonoSterlingDb/Sterling.TouchU/Sterling.TouchUViewController.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
