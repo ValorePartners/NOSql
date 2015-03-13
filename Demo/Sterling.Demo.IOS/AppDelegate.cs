@@ -1,9 +1,7 @@
-﻿using System;
-using System.Linq;
-using System.Collections.Generic;
-
+﻿
 using Foundation;
 using UIKit;
+using Sterling.Demo.Shared;
 
 namespace Sterling.Demo.IOS
 {
@@ -18,6 +16,12 @@ namespace Sterling.Demo.IOS
 		public override UIWindow Window {
 			get;
 			set;
+		}
+
+		public override bool FinishedLaunching (UIApplication application, NSDictionary launchOptions)
+		{
+			AppDb.Init();
+			return true;
 		}
 		
 		// This method is invoked when the application is about to move from active to inactive state.
@@ -41,6 +45,7 @@ namespace Sterling.Demo.IOS
 		// This method is called when the application is about to terminate. Save data, if needed.
 		public override void WillTerminate (UIApplication application)
 		{
+			AppDb.Close ();
 		}
 	}
 }

@@ -1,21 +1,25 @@
-# Version: 8.6.1.20 (3b3ef43)
-# [first argument, ignore] # /Users/Les/Desktop/MonoSterlingDb/Demo/Sterling.Demo.IOS/mtouch.exe
-/Library/Frameworks/Xamarin.iOS.framework/Versions/8.6.1.20/bin/mtouch-64 \
+# Version: 8.8.0.2 (ccfcd59)
+# [first argument, ignore] # /Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.8.0.2/bin/mtouch-64 \
 	--cache \
-	/Users/Les/Desktop/MonoSterlingDb/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Debug/mtouch-cache \
 	--sim \
-	/Users/Les/Desktop/MonoSterlingDb/Demo/Sterling.Demo.IOS/bin/iPhoneSimulator/Debug/Sterling.Demo.IOS.app \
+	/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/bin/iPhoneSimulator/Debug/Sterling.Demo.IOS.app \
 	--executable \
 	Sterling.Demo.IOS \
 	--debug \
-	--nolink \
+	--profiling \
+	--linksdkonly \
 	--sdkroot \
 	/Applications/Xcode.app/Contents/Developer \
 	--sdk \
-	8.1 \
+	8.2 \
 	--targetver \
 	8.0 \
+	--sgen \
+	--new-refcount \
 	--abi=i386 \
+	--linkskip=Sterling.IOS \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
 	-r \
@@ -34,4 +38,4 @@
 	../../Core/Sterling.IOS/bin/Debug/Sterling.IOS.dll \
 	-r \
 	../packages/Newtonsoft.Json.6.0.8/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll \
-	/Users/Les/Desktop/MonoSterlingDb/Demo/Sterling.Demo.IOS/bin/iPhoneSimulator/Debug//Sterling.Demo.IOS.exe \
+	/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/bin/iPhoneSimulator/Debug//Sterling.Demo.IOS.exe \

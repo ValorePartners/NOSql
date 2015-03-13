@@ -1,3 +1,3 @@
-/Users/Les/Desktop/MonoSterlingDb/Demo/Sterling.Demo.Android/bin/Debug/Sterling.Demo.Android.dll
-/Users/Les/Desktop/MonoSterlingDb/Core/Sterling.Android/bin/Debug/Sterling.Android.dll
-/Users/Les/Desktop/MonoSterlingDb/Demo/packages/Newtonsoft.Json.6.0.8/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.Android/bin/Debug/Sterling.Demo.Android.dll
+/Users/Les/Documents/NOSql/Demo/packages/Newtonsoft.Json.6.0.8/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll
+/Users/Les/Documents/NOSql/Core/Sterling.Android/bin/Debug/Sterling.Android.dll

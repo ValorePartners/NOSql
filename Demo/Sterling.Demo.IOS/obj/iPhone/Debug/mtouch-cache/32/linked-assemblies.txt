@@ -1,0 +1,6 @@
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.Core.dll
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/obj/iPhone/Debug/mtouch-cache/32/Link/Sterling.IOS.dll
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/obj/iPhone/Debug/mtouch-cache/32/Link/Sterling.Demo.IOS.exe
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll

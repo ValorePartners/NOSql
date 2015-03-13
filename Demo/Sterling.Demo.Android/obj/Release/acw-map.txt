@@ -1,1 +1,2 @@
+Sterling.Demo.Android.MainApp;sterling.demo.android.MainApp
 Sterling.Demo.Android.MainActivity;sterling.demo.android.MainActivity

@@ -1,22 +1,16 @@
-﻿<Properties StartupItem="Sterling.Demo.Android/Sterling.Demo.Android.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean)" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Sterling.Demo.Shared/Database/PersonRespository.cs">
+﻿<Properties StartupItem="Sterling.Demo.IOS/Sterling.Demo.IOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.8.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sterling.Demo.Shared/Database/AppDatabase.cs">
     <Files>
-      <File FileName="Sterling.Demo.Shared/Database/AppDatabase.cs" Line="1" Column="1" />
-      <File FileName="Sterling.Demo.Shared/Model/Media.cs" Line="1" Column="1" />
-      <File FileName="Sterling.Demo.Shared/Model/Order.cs" Line="1" Column="1" />
-      <File FileName="Sterling.Demo.Shared/ViewModel/MainViewModel.cs" Line="1" Column="1" />
-      <File FileName="Sterling.Demo.IOS/Sterling.Demo.IOSViewController.cs" Line="1" Column="1" />
       <File FileName="Sterling.Demo.IOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Sterling.Demo.IOS/Sterling.Demo.IOSViewController.cs" Line="1" Column="1" />
       <File FileName="Sterling.Demo.Android/MainActivity.cs" Line="1" Column="1" />
-      <File FileName="Sterling.Demo.Shared/Database/PersonRespository.cs" Line="53" Column="53" />
-      <File FileName="Sterling.Demo.Shared/Model/PersonModel.cs" Line="6" Column="6" />
-      <File FileName="Sterling.Demo.Shared/Model/Login.cs" Line="1" Column="1" />
-      <File FileName="Sterling.Demo.Shared/Model/ItemModel.cs" Line="1" Column="1" />
+      <File FileName="Sterling.Demo.Shared/Database/AppDatabase.cs" Line="71" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Sterling.Demo.Android AndroidDesignerPreferredDevice="Nexus 4" />
 </Properties>

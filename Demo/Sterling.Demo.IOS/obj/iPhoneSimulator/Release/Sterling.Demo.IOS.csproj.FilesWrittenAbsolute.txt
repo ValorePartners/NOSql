@@ -1,0 +1,14 @@
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Release/ibtool/LaunchScreen.nib
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Release/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Release/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Release/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Release/actool/partial-info.plist
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Release/actool/asset-manifest.plist
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Release/
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/bin/iPhoneSimulator/Release/Sterling.Demo.IOS.exe.mdb
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/bin/iPhoneSimulator/Release/Sterling.Demo.IOS.exe
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Release/Sterling.Demo.IOS.exe
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/obj/iPhoneSimulator/Release/Sterling.Demo.IOS.exe.mdb
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/bin/iPhoneSimulator/Release/Sterling.IOS.dll
+/Users/Les/Documents/NOSql/Demo/Sterling.Demo.IOS/bin/iPhoneSimulator/Release/Newtonsoft.Json.dll
