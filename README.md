@@ -17,6 +17,8 @@ Additional documentation from Jeremy can be found at:
 
 https://sites.google.com/site/sterlingdatabase/sterling-user-guide/getting-started
 
+https://github.com/jeremylikness
+
 ###Code Example:
 
 You essentially need two files to get SterlingDb going.  One file defines the triggers, creates the tables,defines primary keys and inherits from the BaseDatabaseInstance class. The other class initializes the database engine, logging and an instance of your database class mentioned before. The following code example defines a database based on a person model.
